@@ -23,8 +23,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 
-
-
 ###  R in Organizations
 
 
@@ -34,6 +32,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
+[Using American Community Survey Data with Open-Source Software](https://www.census.gov/programs-surveys/acs/guidance/statistical-software.html)
 
 ###  New Packages
 
